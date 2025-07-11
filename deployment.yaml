@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: jihoon1008/myweb:latest
+        image: jihoon1008/myweb:7
         ports:
         - containerPort: 8080
